@@ -1,4 +1,4 @@
-Rectifying Self Organizing Map (RSOM)
+ Rectifying Self Organizing Map (RSOM)
 ===============================
 
 📎 **Paper 1:** Gölge, E., & Duygulu, P. 2013. Rectifying Self Organizing Maps for Automatic Concept Learning from Web Images
